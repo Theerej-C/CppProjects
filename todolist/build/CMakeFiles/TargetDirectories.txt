@@ -1,0 +1,3 @@
+/workspace/CppProjects/todolist/build/CMakeFiles/executable.dir
+/workspace/CppProjects/todolist/build/CMakeFiles/edit_cache.dir
+/workspace/CppProjects/todolist/build/CMakeFiles/rebuild_cache.dir

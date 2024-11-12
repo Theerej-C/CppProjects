@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspace/CppProjects/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/executable.dir/src/main.cpp.o -c /workspace/CppProjects/todolist/src/main.cpp",
+  "file": "/workspace/CppProjects/todolist/src/main.cpp",
+  "output": "CMakeFiles/executable.dir/src/main.cpp.o"
+}
+]
